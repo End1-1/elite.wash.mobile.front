@@ -1,0 +1,1 @@
+ C:\\projects\\armpet_wash_mobile\\lib\\l10n\\app_localizations_en.dart C:\\projects\\armpet_wash_mobile\\lib\\l10n\\app_localizations_hy.dart C:\\projects\\armpet_wash_mobile\\lib\\l10n\\app_localizations.dart:  C:\\projects\\armpet_wash_mobile\\l10n.yaml C:\\projects\\armpet_wash_mobile\\lib\\l10n\\app_en.arb C:\\projects\\armpet_wash_mobile\\lib\\l10n\\app_hy.arb
