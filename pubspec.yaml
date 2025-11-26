@@ -3,7 +3,7 @@ description: "A Elite car wash Project."
 
 publish_to: 'none'
 
-version: 1.0.1+15
+version: 1.0.317
 
 environment:
   sdk: ^3.7.2

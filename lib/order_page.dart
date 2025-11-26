@@ -261,6 +261,8 @@ class _OrderPageContentState extends State<_OrderPageContent> {
           'f_store': v.f_store,
           'f_print': 1,
           'f_qty':1,
+          'f_svcvalue':  0,
+          'f_svcamount': 0,
           'f_qtyprint': 1,
           'f_total': v.f_price,
           'f_row': _orderBody.length,
